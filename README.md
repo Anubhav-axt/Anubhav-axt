@@ -42,7 +42,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   ⬡  IDENTITY MATRIX                                           │
+│   ⬡  IDENTITY MATRIX                                            │
 │                                                                 │
 │   NAME        ──  Anubhav Pati                                  │
 │   ROLE        ──  Full Stack Dev + Cybersecurity Enthusiast     │
@@ -54,18 +54,18 @@
 │                                                                 │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│   ⬡  INTEREST MODULES LOADED                                   │
+│   ⬡  INTEREST MODULES LOADED                                    │
 │                                                                 │
 │   [✓] Cybersecurity ── offensive & defensive                    │
-│   [✓] Web Dev ── frontend to backend                           │
-│   [✓] Computer Vision & AI gesture systems                     │
-│   [✓] Network security & reconnaissance                        │
-│   [✓] Browser extensions & Web3 / NFTs                        │
-│   [✓] CTF challenges & vulnerability research                  │
+│   [✓] Web Dev ── frontend to backend                            │
+│   [✓] Computer Vision & AI gesture systems                      │
+│   [✓] Network security & reconnaissance                         │
+│   [✓] Browser extensions & Web3 / NFTs                          │
+│   [✓] CTF challenges & vulnerability research                   │
 │                                                                 │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│   MOTTO ── "The quieter you become, the more you can hear."    │
+│   MOTTO ── "The quieter you become, the more you can hear."     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
