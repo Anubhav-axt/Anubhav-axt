@@ -83,6 +83,7 @@
 + STATUS : ACTIVE
 + TYPE   : Computer Vision / AI
 + STACK  : Python · MediaPipe · OpenCV · PyAutoGUI
++ Cursor move using index finger is in progress
 ```
 
 > Control your laptop with nothing but hand gestures.
