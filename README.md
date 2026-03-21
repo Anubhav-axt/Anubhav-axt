@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=ANUBHAV%20PATI&fontSize=70&fontColor=00ff41&fontAlignY=40&desc=%3E_%20Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Linux%20Native&descSize=16&descColor=39ff14&descAlignY=62&animation=scaleIn&stroke=00ff41&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003333,100:00ffff&height=240&section=header&text=ANUBHAV%20PATI&fontSize=72&fontColor=00ffff&fontAlignY=40&desc=%3E_%20Full%20Stack%20Dev%20%7C%20Cybersecurity%20%7C%20Arch%20Linux%20Native&descSize=16&descColor=00cccc&descAlignY=62&animation=scaleIn&stroke=00ffff&strokeWidth=2" />
 </div>
 
 <!-- TYPING -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%5Broot%40anubhav+~%5D%23+whoami;Full+Stack+Developer+%2B+Cybersecurity+Enthusiast+%F0%9F%94%90;%5Broot%40anubhav+~%5D%23+uname+-a;Linux+%F0%9F%90%A7+--+my+primary+%26+daily+driver;%5Broot%40anubhav+~%5D%23+cat+skills.txt;HTML+CSS+JS+Python+C+C%2B%2B+Java+MySQL;%5Broot%40anubhav+~%5D%23+echo+%24MOTTO;Stay+curious.+Keep+hacking.+Keep+building.+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2500&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%5Broot%40anubhav+~%5D%23+whoami;Full+Stack+Developer+%2B+Cybersecurity+Enthusiast+%F0%9F%94%90;%5Broot%40anubhav+~%5D%23+uname+-a;Arch+Linux+%F0%9F%90%A7+KDE+Plasma+--+my+daily+driver;%5Broot%40anubhav+~%5D%23+cat+skills.txt;HTML+CSS+JS+Python+Solidity+C+C%2B%2B+Java;%5Broot%40anubhav+~%5D%23+nmap+-sV+localhost;Scanning+for+new+knowledge...+%5BOPEN%5D;%5Broot%40anubhav+~%5D%23+echo+%24MOTTO;Stay+curious.+Keep+hacking.+Keep+building.+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 </div>
 
@@ -24,120 +24,149 @@
 <!-- SOCIALS -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavpati)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavpati6@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mai_.anubhav/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://www.linkedin.com/in/anubhavpati)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0a0a0a&color=003333)](mailto:anubhavpati6@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://tryhackme.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://www.instagram.com/mai_.anubhav/)
 
-<img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=Profile+Views&color=00ff41&style=flat-square&font=Courier" />
+<img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `$ cat about_me.yaml`
+## `// SYSTEM INFO`
 
-```bash
-╔══════════════════════════════════════════════════════════════╗
-║                     < SYSTEM INFO />                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  name        : Anubhav Pati                                 ║
-║  role        : Full Stack Dev + Cybersecurity Enthusiast    ║
-║  university  : Centurion University of Tech & Management    ║
-║  status      : Student 🎓                                   ║
-║  os          : Arch Linux 🐧 — born to live in a terminal   ║
-║  wm          : KDE Plasma on Wayland                        ║
-║  shell       : bash / zsh                                   ║
-║  editor      : VS Code  (with vim motions 😈)               ║
-╠══════════════════════════════════════════════════════════════╣
-║  interests:                                                 ║
-║    [*] Cybersecurity  — offensive & defensive               ║
-║    [*] Web Dev        — frontend to backend                 ║
-║    [*] Computer Vision & AI gesture systems                 ║
-║    [*] Network security & reconnaissance                    ║
-║    [*] Browser extensions & Web3                            ║
-║    [*] CTF challenges & vulnerability research              ║
-╠══════════════════════════════════════════════════════════════╣
-║  motto : "The quieter you become, the more you can hear."   ║
-╚══════════════════════════════════════════════════════════════╝
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   ⬡  IDENTITY MATRIX                                           │
+│                                                                 │
+│   NAME        ──  Anubhav Pati                                  │
+│   ROLE        ──  Full Stack Dev + Cybersecurity Enthusiast     │
+│   UNIVERSITY  ──  Centurion University of Tech & Management     │
+│   STATUS      ──  Student [ ENROLLED ]                          │
+│   OS          ──  Arch Linux ── born to live in a terminal      │
+│   WM          ──  KDE Plasma on Wayland                         │
+│   EDITOR      ──  VS Code (with vim motions 😈)                 │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   ⬡  INTEREST MODULES LOADED                                   │
+│                                                                 │
+│   [✓] Cybersecurity ── offensive & defensive                    │
+│   [✓] Web Dev ── frontend to backend                           │
+│   [✓] Computer Vision & AI gesture systems                     │
+│   [✓] Network security & reconnaissance                        │
+│   [✓] Browser extensions & Web3 / NFTs                        │
+│   [✓] CTF challenges & vulnerability research                  │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   MOTTO ── "The quieter you become, the more you can hear."    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `$ ls -la /projects`
+## `// ./projects --list --all`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✋ Gesture Control
 ```diff
-+ STATUS: ACTIVE
-+ STACK:  Python · MediaPipe · OpenCV · PyAutoGUI
+@@ GESTURE CONTROL @@
++ STATUS : ACTIVE
++ TYPE   : Computer Vision / AI
++ STACK  : Python · MediaPipe · OpenCV · PyAutoGUI
 ```
-> Control your laptop with hand gestures — no touch needed.
 
-- 👆 Pinch to click, wave to scroll
-- 🔊 Volume & brightness via finger gestures
-- 📸 Screenshot with a star hand spread
-- 🖥️ Switch apps with left/right wave
-- 🧠 Powered by MediaPipe hand landmark AI
+> Control your laptop with nothing but hand gestures.
 
-[![View Repo](https://img.shields.io/badge/%3E__VIEW__REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anubhav-axt/gesture-control)
+```
+[ PINCH      ]  ──  Left Click
+[ 2x PINCH   ]  ──  Right Click
+[ WAVE ↑↓   ]  ──  Scroll
+[ WAVE ←→   ]  ──  Switch Apps
+[ 2 FINGERS  ]  ──  Volume Control
+[ 3 FINGERS  ]  ──  Brightness
+[ PALM PUSH  ]  ──  Play / Pause
+[ STAR HAND  ]  ──  Screenshot
+```
+
+[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/gesture-control)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 NetScan — Network Recon Dashboard
 ```diff
-+ STATUS: ACTIVE
-+ STACK:  Python · FastAPI · Nmap · HTML/CSS/JS
+@@ NETSCAN — NETWORK RECON @@
++ STATUS : ACTIVE
++ TYPE   : Cybersecurity / Networking
++ STACK  : Python · FastAPI · Nmap · JS
 ```
-> A full network reconnaissance tool with a cyberpunk terminal UI.
 
-- 📡 Device discovery, port scanning, OS detection
-- 🗺️ Interactive network topology map
-- ⚠️ CVE vulnerability detection per service
-- 🌍 IP geolocation with live map embed
-- 📜 DNS, Whois, Traceroute, Ping monitor
+> Full network recon tool with cyberpunk terminal UI.
 
-[![View Repo](https://img.shields.io/badge/%3E__VIEW__REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anubhav-axt/Know_the_network)
+```
+[ DISCOVER   ]  ──  ARP scan entire subnet
+[ PORT SCAN  ]  ──  Services + versions
+[ MAP        ]  ──  Network topology graph
+[ CVE CHECK  ]  ──  Vulnerability detection
+[ GEO        ]  ──  IP geolocation + map
+[ MONITOR    ]  ──  Real-time device alerts
+[ WHOIS/DNS  ]  ──  Domain intel tools
+```
+
+[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/Know_the_network)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ NFT Marketplace
 ```diff
-+ STATUS: DEPLOYED
-+ STACK:  Web3 · Solidity · Hardhat · Ethers.js
+@@ NFT MARKETPLACE @@
++ STATUS : DEPLOYED
++ TYPE   : Web3 / Blockchain
++ STACK  : Solidity · Hardhat · Ethers.js
 ```
-> A decentralized marketplace for minting, buying & trading NFTs on-chain.
 
-- 🔗 Smart contract–powered asset trading
-- 🎨 Slick UI to browse, mint & list NFTs
-- 💳 MetaMask wallet integration
-- ⛓️ Deployed on Ethereum Sepolia testnet
+> Decentralized NFT marketplace on Ethereum Sepolia.
 
-[![View Repo](https://img.shields.io/badge/%3E__VIEW__REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anubhav-axt/nft-marketplace)
+```
+[ MINT       ]  ──  ERC-721 NFT creation
+[ TRADE      ]  ──  On-chain buying/selling
+[ WALLET     ]  ──  MetaMask integration
+[ CONTRACTS  ]  ──  Verified on Sepolia
+```
+
+[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/nft-marketplace)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Price Tracker — Chrome Extension
 ```diff
-+ STATUS: LIVE ON CHROME
-+ STACK:  JavaScript · Chrome APIs · HTML/CSS
+@@ PRICE TRACKER EXTENSION @@
++ STATUS : LIVE ON CHROME
++ TYPE   : Browser Extension
++ STACK  : JavaScript · Chrome APIs · HTML/CSS
 ```
-> A Chrome extension that watches prices across e-commerce in real time.
 
-- 🛒 Tracks prices on major e-commerce sites
-- 🔔 Drop alerts & price history charts
-- ⚡ Blazing fast — runs native in your browser
-- 🔍 No server needed — pure client-side magic
+> Chrome extension tracking e-commerce prices in real time.
 
-[![View Repo](https://img.shields.io/badge/%3E__VIEW__REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anubhav-axt/price-tracker-extension)
+```
+[ TRACK      ]  ──  Price monitoring
+[ ALERT      ]  ──  Drop notifications
+[ HISTORY    ]  ──  Price chart logs
+[ FAST       ]  ──  Pure client-side
+```
+
+[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/price-tracker-extension)
 
 </td>
 </tr>
@@ -145,56 +174,56 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> `$ cat tech_stack.sh`
+## `// cat /proc/tech_stack`
 
-### 💻 Languages
+**LANGUAGES**
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=00ffff)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00ffff)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ffff)
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0a?style=for-the-badge&logo=solidity&logoColor=00ffff)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ffff)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=00ffff)
 
 </div>
 
-### 🗄️ Frameworks & Tools
+**FRAMEWORKS & TOOLS**
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00ffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=00ffff)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0a0a0a?style=for-the-badge&logoColor=00ffff)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ffff)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00ffff)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff)
+![VS Code](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=00ffff)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=00ffff)
 
 </div>
 
-### 🔐 Cybersecurity & OS Arsenal
+**CYBERSECURITY ARSENAL**
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0a0a0a?style=for-the-badge&logo=archlinux&logoColor=00ffff)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=00ffff)
+![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=00ffff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=00ffff)
+![Nmap](https://img.shields.io/badge/Nmap-0a0a0a?style=for-the-badge&logoColor=00ffff)
+![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0a?style=for-the-badge&logo=metasploit&logoColor=00ffff)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge&logo=burpsuite&logoColor=00ffff)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> `$ git log --stat`
+## `// git log --oneline --graph`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-axt&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=00ff41&sideNums=00ff41&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-axt&theme=dark&hide_border=true&background=0D1117&stroke=00ffff&ring=00ffff&fire=00cccc&currStreakLabel=00ffff&sideLabels=006666&currStreakNum=00ffff&sideNums=00aaaa&dates=444444)](https://git.io/streak-stats)
 
 </div>
 
@@ -202,18 +231,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-axt&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-axt&theme=github_dark" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-axt&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=00aaaa&icon_color=00ffff" />
 
 </div>
 
 ---
 
-## 📈 `$ git graph --all`
+## `// git graph --all --decorate`
 
 <div align="center">
 
-[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-axt&bg_color=0d1117&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003300&hide_border=true&custom_title=Anubhav%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-axt&bg_color=0d1117&color=00ffff&line=00ffff&point=00aaaa&area=true&area_color=003333&hide_border=true&custom_title=Anubhav%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -222,13 +250,17 @@
 <div align="center">
 
 ```
-[*] Scanning for new knowledge...
-[*] Vulnerability found: too much curiosity
-[+] Exploit successful: learned something new today
-[*] 4 projects deployed. More incoming...
-[*] Session established. Keep hacking. 🔐
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   [*] Scanning for new knowledge........... [ DONE ]     │
+│   [*] Vulnerability found: too much curiosity            │
+│   [+] Exploit successful: learned something new today    │
+│   [*] 4 projects deployed. More incoming...              │
+│   [*] Session established. Keep hacking. 🔐              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=120&section=footer&text=%3E_%20root%40anubhav%3A~%23&fontSize=20&fontColor=00ff41&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:00ffff&height=130&section=footer&text=%3E_%20root%40anubhav%3A~%23&fontSize=22&fontColor=00ffff&fontAlignY=65&animation=twinkling" />
 
 </div>
