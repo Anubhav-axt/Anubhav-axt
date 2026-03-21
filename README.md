@@ -74,104 +74,166 @@
 
 ## `// ./projects --list --all`
 
+<div align="center">
+
+<!-- Row 1 -->
 <table>
 <tr>
-<td width="50%" valign="top">
 
-```diff
-@@ GESTURE CONTROL @@
-+ STATUS : ACTIVE
-+ TYPE   : Computer Vision / AI
-+ STACK  : Python · MediaPipe · OpenCV · PyAutoGUI
-+ Cursor move using index finger is in progress
-```
+<td width="33%" valign="top">
+<div align="center">
 
-> Control your laptop with nothing but hand gestures.
+**`🔐 STEGOVAULT`**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-000000?style=flat-square&logo=github&logoColor=00ffff&color=003333)](https://github.com/Anubhav-axt/StegoVault)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&logoColor=00ffff&color=003333)
 
 ```
-[ PINCH      ]  ──  Left Click
-[ 2x PINCH   ]  ──  Right Click
-[ WAVE ↑↓   ]  ──  Scroll
-[ WAVE ←→   ]  ──  Switch Apps
-[ 2 FINGERS  ]  ──  Volume Control
-[ 3 FINGERS  ]  ──  Brightness
-[ PALM PUSH  ]  ──  Play / Pause
-[ STAR HAND  ]  ──  Screenshot
+TYPE  ─ Cybersecurity Tool
+STACK ─ Python · FastAPI
+      ─ Pillow · AES-256
+      ─ Vanilla JS
 ```
 
-[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/gesture-control)
+Hide secret messages & files\
+inside any image invisibly.\
+LSB stego + AES-256 encryption.
 
+`LSB` `AES-256` `Steganography`
+
+</div>
 </td>
-<td width="50%" valign="top">
 
-```diff
-@@ NETSCAN — NETWORK RECON @@
-+ STATUS : ACTIVE
-+ TYPE   : Cybersecurity / Networking
-+ STACK  : Python · FastAPI · Nmap · JS
-```
+<td width="33%" valign="top">
+<div align="center">
 
-> Full network recon tool with cyberpunk terminal UI.
+**`🖐 GESTURE CONTROL`**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-000000?style=flat-square&logo=github&logoColor=00ffff&color=003333)](https://github.com/Anubhav-axt/gesture-control)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&logoColor=00ffff&color=003333)
 
 ```
-[ DISCOVER   ]  ──  ARP scan entire subnet
-[ PORT SCAN  ]  ──  Services + versions
-[ MAP        ]  ──  Network topology graph
-[ CVE CHECK  ]  ──  Vulnerability detection
-[ GEO        ]  ──  IP geolocation + map
-[ MONITOR    ]  ──  Real-time device alerts
-[ WHOIS/DNS  ]  ──  Domain intel tools
+TYPE  ─ Computer Vision / AI
+STACK ─ Python · MediaPipe
+      ─ OpenCV · PyAutoGUI
+      ─ pynput
 ```
 
-[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/Know_the_network)
+Control your laptop with\
+nothing but hand gestures.\
+8 gestures mapped to actions.
 
+`CV` `MediaPipe` `OpenCV`
+
+</div>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-```diff
-@@ NFT MARKETPLACE @@
-+ STATUS : DEPLOYED
-+ TYPE   : Web3 / Blockchain
-+ STACK  : Solidity · Hardhat · Ethers.js
-```
+<td width="33%" valign="top">
+<div align="center">
 
-> Decentralized NFT marketplace on Ethereum Sepolia.
+**`🌐 NETSCAN`**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-000000?style=flat-square&logo=github&logoColor=00ffff&color=003333)](https://github.com/Anubhav-axt/Know_the_network)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&logoColor=00ffff&color=003333)
 
 ```
-[ MINT       ]  ──  ERC-721 NFT creation
-[ TRADE      ]  ──  On-chain buying/selling
-[ WALLET     ]  ──  MetaMask integration
-[ CONTRACTS  ]  ──  Verified on Sepolia
+TYPE  ─ Network Recon Tool
+STACK ─ Python · FastAPI
+      ─ Nmap · JS
+      ─ Cyberpunk UI
 ```
 
-[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/nft-marketplace)
+Full network recon dashboard.\
+ARP scan, CVE detection,\
+topology map, real-time alerts.
 
+`Nmap` `CVE` `Networking`
+
+</div>
 </td>
-<td width="50%" valign="top">
 
-```diff
-@@ PRICE TRACKER EXTENSION @@
-+ STATUS : LIVE ON CHROME
-+ TYPE   : Browser Extension
-+ STACK  : JavaScript · Chrome APIs · HTML/CSS
-```
-
-> Chrome extension tracking e-commerce prices in real time.
-
-```
-[ TRACK      ]  ──  Price monitoring
-[ ALERT      ]  ──  Drop notifications
-[ HISTORY    ]  ──  Price chart logs
-[ FAST       ]  ──  Pure client-side
-```
-
-[![](https://img.shields.io/badge/⬡__OPEN__REPO-000000?style=for-the-badge&logoColor=00ffff&color=003333&labelColor=000000&logo=github)](https://github.com/Anubhav-axt/price-tracker-extension)
-
-</td>
 </tr>
 </table>
+
+<!-- Row 2 -->
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<div align="center">
+
+**`🎨 NFT MARKETPLACE`**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-000000?style=flat-square&logo=github&logoColor=00ffff&color=003333)](https://github.com/Anubhav-axt/nft-marketplace)
+![Status](https://img.shields.io/badge/STATUS-DEPLOYED-000000?style=flat-square&logoColor=00ffff&color=003333)
+
+```
+TYPE  ─ Web3 / Blockchain
+STACK ─ Solidity · Hardhat
+      ─ Ethers.js v5
+      ─ MetaMask · Sepolia
+```
+
+Decentralized NFT marketplace\
+on Ethereum Sepolia testnet.\
+ERC-721 mint, buy & sell.
+
+`Solidity` `Web3` `ERC-721`
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+
+**`💰 PRICE TRACKER`**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-000000?style=flat-square&logo=github&logoColor=00ffff&color=003333)](https://github.com/Anubhav-axt/price-tracker-extension)
+![Status](https://img.shields.io/badge/LIVE-CHROME-000000?style=flat-square&logoColor=00ffff&color=003333)
+
+```
+TYPE  ─ Browser Extension
+STACK ─ JavaScript
+      ─ Chrome APIs
+      ─ HTML · CSS
+```
+
+Chrome extension tracking\
+e-commerce prices in real time.\
+Alerts on price drops.
+
+`Extension` `Chrome` `JS`
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+
+**`🔍 MORE COMING`**
+
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-000000?style=flat-square&logoColor=00ffff&color=003333)
+
+```
+TYPE  ─ ???
+STACK ─ Python · FastAPI
+      ─ PostgreSQL
+      ─ ...
+```
+
+Always building something\
+new. Stay tuned.\
+More projects incoming...
+
+`WIP` `Soon` `🔐`
+
+</div>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -256,7 +318,7 @@
 │   [*] Scanning for new knowledge........... [ DONE ]     │
 │   [*] Vulnerability found: too much curiosity            │
 │   [+] Exploit successful: learned something new today    │
-│   [*] 4 projects deployed. More incoming...              │
+│   [*] 5 projects deployed. More incoming...              │
 │   [*] Session established. Keep hacking. 🔐              │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
