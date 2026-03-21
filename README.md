@@ -194,14 +194,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-axt&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-axt&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=00ff41&sideNums=00ff41&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-axt&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=00ff41&sideNums=00ff41&dates=555555)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-axt&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav-axt&theme=github_dark" />
 
 </div>
 
