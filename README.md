@@ -45,7 +45,7 @@
 │   ⬡  IDENTITY MATRIX                                            │
 │                                                                 │
 │   NAME        ──  Anubhav Pati                                  │
-│   ROLE        ──  Full Stack Dev + Cybersecurity Enthusiast     │
+│   ROLE        ──  Full Stack Dev + Cybersecurity Learning       │
 │   UNIVERSITY  ──  Centurion University of Tech & Management     │
 │   STATUS      ──  Student [ ENROLLED ]                          │
 │   OS          ──  Arch Linux ── born to live in a terminal      │
