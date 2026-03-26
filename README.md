@@ -26,7 +26,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://www.linkedin.com/in/anubhavpati)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0a0a0a&color=003333)](mailto:anubhavpati6@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://tryhackme.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00ffff&labelColor=0a0a0a&color=003333)](https://www.instagram.com/mai_.anubhav/)
 
 <img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
