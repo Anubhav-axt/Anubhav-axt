@@ -1,3 +1,4 @@
+````md
 # Anubhav Pati
 
 ```bash
@@ -8,9 +9,19 @@ Building secure systems, AI-powered tools, and cool things on the web.
 Arch Linux • FastAPI • Computer Vision • Web3
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/anubhavpati)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff)](mailto:anubhavpati6@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ffff)](https://www.instagram.com/mai_.anubhav/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/anubhavpati">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
+  </a>
+
+  <a href="mailto:anubhavpati6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff"/>
+  </a>
+
+  <a href="https://www.instagram.com/mai_.anubhav/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
@@ -27,9 +38,8 @@ Interests   :
 - Cybersecurity
 - Full Stack Development
 - Computer Vision & AI
-- Network Reconnaissance
-- Browser Extensions
-- Web3 / Blockchain
+- Web3 & Blockchain
+- Network Security
 - CTF Challenges
 
 Motto       :
@@ -41,36 +51,47 @@ Motto       :
 # Featured Projects
 
 ## 🔐 StegoVault
-Secure steganography tool using AES-256 encryption and LSB image hiding.
+
+AES-256 + LSB steganography tool for hiding files/messages inside images.
 
 **Stack:** Python • FastAPI • Pillow • JavaScript
 
 ### Features
-- Hide secret messages/files inside images
+- Secure file hiding
 - AES-256 encryption
+- LSB image steganography
 - Clean web interface
-- Secure file transfer concept
 
-[![Repo](https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Anubhav-axt/StegoVault)
+<p>
+  <a href="https://github.com/Anubhav-axt/StegoVault">
+    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
 ## 🖐 Gesture Control
+
 Control your laptop using real-time hand gestures.
 
 **Stack:** Python • OpenCV • MediaPipe • PyAutoGUI
 
 ### Features
-- 8 gesture mappings
-- MediaPipe hand tracking
+- Real-time gesture tracking
 - System control automation
-- Real-time gesture recognition
+- 8 gesture mappings
+- AI-based hand detection
 
-[![Repo](https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Anubhav-axt/gesture-control)
+<p>
+  <a href="https://github.com/Anubhav-axt/gesture-control">
+    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 NetScan
+
 Network reconnaissance dashboard with scanning and vulnerability insights.
 
 **Stack:** Python • FastAPI • Nmap • JavaScript
@@ -78,14 +99,19 @@ Network reconnaissance dashboard with scanning and vulnerability insights.
 ### Features
 - ARP scanning
 - CVE detection
+- Network topology map
 - Real-time alerts
-- Network topology visualization
 
-[![Repo](https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Anubhav-axt/Know_the_network)
+<p>
+  <a href="https://github.com/Anubhav-axt/Know_the_network">
+    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
 ## 🎨 NFT Marketplace
+
 Decentralized NFT marketplace built on Ethereum Sepolia testnet.
 
 **Stack:** Solidity • Hardhat • Ethers.js • MetaMask
@@ -96,11 +122,16 @@ Decentralized NFT marketplace built on Ethereum Sepolia testnet.
 - Smart contract integration
 - Web3 wallet support
 
-[![Repo](https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Anubhav-axt/nft-marketplace)
+<p>
+  <a href="https://github.com/Anubhav-axt/nft-marketplace">
+    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
 ## 💰 Price Tracker Extension
+
 Chrome extension for tracking e-commerce prices in real time.
 
 **Stack:** JavaScript • Chrome APIs • HTML • CSS
@@ -111,13 +142,18 @@ Chrome extension for tracking e-commerce prices in real time.
 - Browser notifications
 - Lightweight extension
 
-[![Repo](https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Anubhav-axt/price-tracker-extension)
+<p>
+  <a href="https://github.com/Anubhav-axt/price-tracker-extension">
+    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</p>
 
 ---
 
 # Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ffff)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
@@ -126,6 +162,7 @@ Chrome extension for tracking e-commerce prices in real time.
 ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=00ffff)
 
 ### Frameworks & Tools
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00ffff)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00ffff)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ffff)
@@ -134,6 +171,7 @@ Chrome extension for tracking e-commerce prices in real time.
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00ffff)
 
 ### Cybersecurity
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ffff)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00ffff)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00ffff)
@@ -143,7 +181,11 @@ Chrome extension for tracking e-commerce prices in real time.
 
 # GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-axt&theme=dark&hide_border=true&background=0D1117&stroke=00ffff&ring=00ffff&fire=00cccc&currStreakLabel=00ffff)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=Anubhav-axt&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+</p>
 
 ---
 
@@ -156,3 +198,4 @@ Chrome extension for tracking e-commerce prices in real time.
 
 > keep hacking 🔐
 ```
+````
