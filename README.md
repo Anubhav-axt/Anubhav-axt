@@ -1,4 +1,3 @@
-````md
 # Anubhav Pati
 
 ```bash
@@ -25,16 +24,16 @@ Arch Linux • FastAPI • Computer Vision • Web3
 
 ---
 
-# About Me
+## About Me
 
 ```bash
 > cat about.txt
 
-Name        : Anubhav Pati
-Role        : Student Developer
-University  : Centurion University of Technology & Management
+Name       : Anubhav Pati
+Role       : Student Developer
+University : Centurion University of Technology & Management
 
-Interests   :
+Interests  :
 - Cybersecurity
 - Full Stack Development
 - Computer Vision & AI
@@ -42,144 +41,102 @@ Interests   :
 - Network Security
 - CTF Challenges
 
-Motto       :
+Motto :
 "The quieter you become, the more you can hear."
 ```
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## 🔐 StegoVault
+### 🔐 StegoVault
 
 AES-256 + LSB steganography tool for hiding files/messages inside images.
 
 **Stack:** Python • FastAPI • Pillow • JavaScript
 
-### Features
-- Secure file hiding
-- AES-256 encryption
-- LSB image steganography
-- Clean web interface
+* Secure file hiding
+* AES-256 encryption
+* LSB image steganography
+* Clean web interface
 
-<p>
-  <a href="https://github.com/Anubhav-axt/StegoVault">
-    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-  </a>
-</p>
+<a href="https://github.com/Anubhav-axt/StegoVault">
+  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+</a>
 
 ---
 
-## 🖐 Gesture Control
+### 🖐 Gesture Control
 
 Control your laptop using real-time hand gestures.
 
 **Stack:** Python • OpenCV • MediaPipe • PyAutoGUI
 
-### Features
-- Real-time gesture tracking
-- System control automation
-- 8 gesture mappings
-- AI-based hand detection
+* Real-time gesture tracking
+* System control automation
+* AI hand detection
+* 8 gesture mappings
 
-<p>
-  <a href="https://github.com/Anubhav-axt/gesture-control">
-    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-  </a>
-</p>
+<a href="https://github.com/Anubhav-axt/gesture-control">
+  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+</a>
 
 ---
 
-## 🌐 NetScan
+### 🌐 NetScan
 
-Network reconnaissance dashboard with scanning and vulnerability insights.
+Network reconnaissance dashboard with vulnerability insights.
 
 **Stack:** Python • FastAPI • Nmap • JavaScript
 
-### Features
-- ARP scanning
-- CVE detection
-- Network topology map
-- Real-time alerts
+* ARP scanning
+* CVE detection
+* Network topology map
+* Real-time alerts
 
-<p>
-  <a href="https://github.com/Anubhav-axt/Know_the_network">
-    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-  </a>
-</p>
+<a href="https://github.com/Anubhav-axt/Know_the_network">
+  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+</a>
 
 ---
 
-## 🎨 NFT Marketplace
+### 🎨 NFT Marketplace
 
-Decentralized NFT marketplace built on Ethereum Sepolia testnet.
+Decentralized NFT marketplace on Ethereum Sepolia testnet.
 
 **Stack:** Solidity • Hardhat • Ethers.js • MetaMask
 
-### Features
-- ERC-721 NFT minting
-- Buy & sell NFTs
-- Smart contract integration
-- Web3 wallet support
+* ERC-721 NFT minting
+* Buy & sell NFTs
+* Smart contract integration
+* Web3 wallet support
 
-<p>
-  <a href="https://github.com/Anubhav-axt/nft-marketplace">
-    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-  </a>
-</p>
+<a href="https://github.com/Anubhav-axt/nft-marketplace">
+  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+</a>
 
 ---
 
-## 💰 Price Tracker Extension
-
-Chrome extension for tracking e-commerce prices in real time.
-
-**Stack:** JavaScript • Chrome APIs • HTML • CSS
-
-### Features
-- Price drop alerts
-- Real-time tracking
-- Browser notifications
-- Lightweight extension
-
-<p>
-  <a href="https://github.com/Anubhav-axt/price-tracker-extension">
-    <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
-  </a>
-</p>
-
----
-
-# Tech Stack
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ffff)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00ffff)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00ffff)
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=00ffff)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=00ffff)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00ffff)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=00ffff)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge\&logo=solidity\&logoColor=00ffff)
 
-### Frameworks & Tools
+### Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00ffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00ffff)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ffff)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00ffff)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ffff)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00ffff)
-
-### Cybersecurity
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ffff)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00ffff)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00ffff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00ffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00ffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge\&logo=opencv\&logoColor=00ffff)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=00ffff)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=00ffff)
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="170"/>
@@ -193,9 +150,8 @@ Chrome extension for tracking e-commerce prices in real time.
 > session initialized...
 
 [✓] curiosity detected
-[✓] building secure & creative systems
-[✓] learning something new every day
+[✓] building secure systems
+[✓] learning every day
 
 > keep hacking 🔐
 ```
-````
