@@ -139,9 +139,15 @@ Decentralized NFT marketplace on Ethereum Sepolia testnet.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff"
+    height="170"
+  />
 
-  <img src="https://streak-stats.demolab.com?user=Anubhav-axt&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-axt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff"
+    height="170"
+  />
 </p>
 
 ---
