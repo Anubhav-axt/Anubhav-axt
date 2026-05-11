@@ -30,7 +30,6 @@ Arch Linux • FastAPI • Computer Vision • Web3
 > cat about.txt
 
 Name       : Anubhav Pati
-Role       : Student Developer
 University : Centurion University of Technology & Management
 
 Interests  :
