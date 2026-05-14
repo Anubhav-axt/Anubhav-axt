@@ -35,7 +35,6 @@ University : Centurion University of Technology & Management
 Interests  :
 - Cybersecurity
 - Full Stack Development
-- Computer Vision & AI
 - Web3 & Blockchain
 - Network Security
 - CTF Challenges
