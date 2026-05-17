@@ -1,25 +1,36 @@
 # < Anubhav Pati />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;AI+%26+Computer+Vision+Builder;Arch+Linux+Power+User;Building+Secure+Systems;Welcome+to+my+digital+world..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;AI+%26+Computer+Vision+Builder;Arch+Linux+Power+User;Building+Secure+Systems;Entering+the+Cyber+Dimension..." />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cyberpunk-edgerunners.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/8e/1f/22/8e1f22f5f5f33f9804f8f4b5d7a7d8a4.gif" width="100%"/>
+</p>
+
+---
+
+```bash
+> boot_sequence.sh
+
+Initializing developer profile...
+
+[✓] AI Systems Online
+[✓] Secure Environment Loaded
+[✓] Cyber Modules Activated
+[✓] Anime Energy Detected
+```
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="420"/>
 </p>
 
 ```bash
-> initializing profile...
-
-Identity  : Anubhav Pati
-Role      : Full Stack Developer & Security Researcher
-OS        : Arch Linux
-Status    : Building futuristic systems...
-
-[✓] AI Automation
-[✓] Offensive Security
-[✓] Computer Vision
-[✓] Web3 Development
+User        : Anubhav Pati
+Role        : Full Stack Developer & Security Researcher
+Environment : Arch Linux
+Focus       : Cybersecurity • AI • Web3
+Status      : Building futuristic systems...
 ```
 
 <p align="center">
@@ -42,7 +53,11 @@ Status    : Building futuristic systems...
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
+
+<p align="center">
+  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/anime-hacker.gif" width="350"/>
+</p>
 
 ```bash
 > cat about.txt
@@ -50,13 +65,13 @@ Status    : Building futuristic systems...
 Name       : Anubhav Pati
 University : Centurion University of Technology & Management
 
-Interests  :
+Specialization :
 - Cybersecurity
 - Full Stack Development
-- AI Systems
+- AI Automation
 - Blockchain
+- Computer Vision
 - Network Security
-- CTF Challenges
 
 Mindset :
 - Breaking systems to understand them
@@ -69,17 +84,11 @@ Motto :
 
 ---
 
-## 🎴 Philosophy
+# ⚔ Tech Arsenal
 
-```bash
-> echo $PHILOSOPHY
-
-"Technology should feel powerful, secure, and invisible."
-```
-
----
-
-## ⚔ Tech Arsenal
+<p align="center">
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAC/linux-anime.gif" width="400"/>
+</p>
 
 ```bash
 > load_skills.sh
@@ -88,9 +97,9 @@ Motto :
 [✓] API Security
 [✓] Linux Environment
 [✓] Computer Vision
-[✓] Network Reconnaissance
 [✓] Smart Contracts
 [✓] AI Automation
+[✓] Offensive Security
 ```
 
 ### Languages
@@ -101,27 +110,22 @@ Motto :
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00ffff)
 ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=00ffff)
 
-### Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00ffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00ffff)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ffff)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ffff)
-
 ---
 
-## 🧠 Featured Projects
+# 🧠 Featured Projects
 
-### 🔐 StegoVault
+<p align="center">
+  <img src="https://media.tenor.com/oqKH9I7k0SAAAAAC/anime-computer.gif" width="420"/>
+</p>
 
-Secure steganography platform combining AES-256 encryption with hidden communication inside images.
+## 🔐 StegoVault
 
 ```bash
-Status : Stable
-Security Level : High
-```
+> stealth_mode --enabled
 
-**Stack:** Python • FastAPI • Pillow • JavaScript
+AES-256 encrypted steganography system
+for hiding sensitive data inside images.
+```
 
 <a href="https://github.com/Anubhav-axt/StegoVault">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -129,16 +133,14 @@ Security Level : High
 
 ---
 
-### 🖐 Gesture Control
-
-Real-time AI hand gesture system for controlling laptops.
+## 🖐 Gesture Control
 
 ```bash
-Detection : Active
-Latency   : Low
-```
+> gesture_engine.start()
 
-**Stack:** Python • OpenCV • MediaPipe • PyAutoGUI
+Real-time AI gesture system
+for controlling devices using hand tracking.
+```
 
 <a href="https://github.com/Anubhav-axt/gesture-control">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -146,16 +148,14 @@ Latency   : Low
 
 ---
 
-### 🌐 NetScan
-
-Advanced network reconnaissance dashboard with vulnerability insights.
+## 🌐 NetScan
 
 ```bash
-Recon Mode : Enabled
-Threat Detection : Running
-```
+> netscan --recon --deep
 
-**Stack:** Python • FastAPI • Nmap • JavaScript
+Advanced reconnaissance dashboard
+with network vulnerability analysis.
+```
 
 <a href="https://github.com/Anubhav-axt/Know_the_network">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -163,16 +163,14 @@ Threat Detection : Running
 
 ---
 
-### 🎨 NFT Marketplace
-
-Decentralized NFT marketplace built on Ethereum Sepolia testnet.
+## 🎨 NFT Marketplace
 
 ```bash
-Blockchain : Ethereum
-Contracts  : Deployed
-```
+> deploy_contracts()
 
-**Stack:** Solidity • Hardhat • Ethers.js • MetaMask
+Decentralized NFT marketplace
+running on Ethereum Sepolia testnet.
+```
 
 <a href="https://github.com/Anubhav-axt/nft-marketplace">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -180,30 +178,34 @@ Contracts  : Deployed
 
 ---
 
-## 🌙 Current Status
+# 🌙 Current Status
+
+<p align="center">
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300"/>
+</p>
 
 ```bash
 > currently_building...
 
-[✓] Full Stack Projects
 [✓] Cybersecurity Tools
 [✓] AI Systems
+[✓] Full Stack Projects
 [✓] Open Source Learning
 
 > system evolving...
 ```
 
-<p align="center">
-  <img src="https://media.tenor.com/Lm6B7QxT9XMAAAAC/anime-computer.gif" width="400"/>
-</p>
-
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="100%"/>
+</p>
 
 ```bash
 > exit
