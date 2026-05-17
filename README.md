@@ -1,12 +1,12 @@
 <div align="center">
 
-# Anubhav Pati 🐾
+# Anubhav Pati 🐈‍⬛
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Computer+Vision+Builder;Arch+Linux+User;Just+a+tired+cat+writing+code..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Builder;Arch+Linux+User;Sleepy+Cat+Writing+Code..." />
 
 <br>
 
-<img src="https://media.tenor.com/xVfFIHxAzW4AAAAC/anime-cat.gif" width="220"/>
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="260"/>
 
 </div>
 
@@ -18,54 +18,50 @@ anubhav@github:~$ whoami
 Name        : Anubhav Pati
 Role        : Full Stack Developer & Cybersecurity Enthusiast
 OS          : Arch Linux
-Focus       : AI • Security • Web Development • Automation
-Status      : surviving on caffeine and late night coding
+Status      : tired but still coding...
 ```
 
 ---
 
-# 💤 about_me.txt
+# 💤 sleepy_cat.log
 
-<img align="right" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="250"/>
+<div align="center">
+
+<img src="https://media.tenor.com/Iie0f6qQjJIAAAAC/cat-laptop.gif" width="300"/>
+
+</div>
 
 ```bash
-> cat about_me.txt
+> cat mood.txt
 
-A passionate developer focused on building
-secure systems and futuristic experiences.
-
-Currently exploring:
-- Cybersecurity
-- AI Systems
-- Computer Vision
-- Blockchain
-- Linux customization
-
-Mindset:
+running on:
+- caffeine
+- late night music
+- zero sleep
+- random coding motivation
 
 while(alive){
-   eat();
    code();
-   learn();
+   cry();
+   debug();
    repeat();
 }
 ```
-
-<br><br><br>
 
 ---
 
 # ⚡ tech_stack.sh
 
-```bash
-loading technologies...
-```
+<div align="center">
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pusheen-computer.gif" width="220"/>
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8BE9FD)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8BE9FD)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8BE9FD)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=8BE9FD)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8BE9FD)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=8BE9FD)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8BE9FD)
 
@@ -75,17 +71,17 @@ loading technologies...
 
 <div align="center">
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pusheen-computer.gif" width="230"/>
+<img src="https://media.tenor.com/S61VCO73mOAAAAAC/cat-work-in-progress.gif" width="280"/>
 
 </div>
 
 ```bash
-[✓] AI Projects
 [✓] Security Tools
+[✓] AI Projects
 [✓] Full Stack Applications
-[✓] Open Source Learning
+[✓] Learning Something New Everyday
 
-system status: active
+system status: online
 ```
 
 ---
@@ -95,15 +91,9 @@ system status: active
 ## 🔐 StegoVault
 
 ```bash
-AES-256 + LSB steganography system
-for hiding secret files inside images.
+AES-256 + LSB steganography platform
+for hiding files inside images.
 ```
-
-<a href="https://github.com/Anubhav-axt/StegoVault">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
-</a>
-
----
 
 ## 🌐 NetScan
 
@@ -112,26 +102,38 @@ Network reconnaissance dashboard
 with vulnerability analysis.
 ```
 
-<a href="https://github.com/Anubhav-axt/Know_the_network">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
-</a>
-
----
-
 ## 🖐 Gesture Control
 
 ```bash
-Control systems using real-time
-AI hand gesture tracking.
+AI hand tracking system
+for controlling devices using gestures.
 ```
-
-<a href="https://github.com/Anubhav-axt/gesture-control">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
-</a>
 
 ---
 
-# 📊 github_activity.log
+# ☕ midnight_debugging.txt
+
+<div align="center">
+
+<img src="https://media.tenor.com/TEj0m8F4B9AAAAAC/cat-computer.gif" width="320"/>
+
+</div>
+
+```bash
+> sudo rm -rf bugs
+
+[sudo] password for anubhav:
+
+********
+
+removing bugs...
+bugs removed successfully.
+new bugs appeared.
+```
+
+---
+
+# 📊 github_stats.log
 
 <div align="center">
 
@@ -155,17 +157,15 @@ AI hand gesture tracking.
 
 ---
 
-# ☕ late_night_session.log
+# 🌌 final_message.txt
 
 <div align="center">
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="100%"/>
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/cat-sleepy.gif" width="250"/>
 
 </div>
 
 ```bash
-> final_message.txt
-
 The quieter you become,
 the more you can hear.
 
@@ -180,7 +180,7 @@ while(alive){
 
 <div align="center">
 
-### 🌌 Connect With Me
+### 🌙 Connect With Me
 
 <a href="https://www.linkedin.com/in/anubhavpati">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"/>
