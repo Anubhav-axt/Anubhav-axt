@@ -1,215 +1,165 @@
-# < Anubhav Pati />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;AI+%26+Computer+Vision+Builder;Arch+Linux+Power+User;Building+Secure+Systems;Entering+the+Cyber+Dimension..." />
-</p>
+# Anubhav Pati
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8e/1f/22/8e1f22f5f5f33f9804f8f4b5d7a7d8a4.gif" width="100%"/>
-</p>
+### Full Stack Developer • Cybersecurity Enthusiast • AI Builder
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+secure+systems...;AI+%26+Computer+Vision+Developer;Arch+Linux+Power+User;Web3+Explorer;Always+learning+new+things..." />
 
-```bash
-> boot_sequence.sh
+<br>
 
-Initializing developer profile...
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="100%" />
 
-[✓] AI Systems Online
-[✓] Secure Environment Loaded
-[✓] Cyber Modules Activated
-[✓] Anime Energy Detected
-```
-
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="420"/>
-</p>
-
-```bash
-User        : Anubhav Pati
-Role        : Full Stack Developer & Security Researcher
-Environment : Arch Linux
-Focus       : Cybersecurity • AI • Web3
-Status      : Building futuristic systems...
-```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anubhavpati">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
-  </a>
-
-  <a href="mailto:anubhavpati6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff"/>
-  </a>
-
-  <a href="https://www.instagram.com/mai_.anubhav/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ffff"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 🌌 About Me
-
-<p align="center">
-  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/anime-hacker.gif" width="350"/>
-</p>
+# 🧑 About Me
 
 ```bash
-> cat about.txt
-
 Name       : Anubhav Pati
-University : Centurion University of Technology & Management
-
-Specialization :
-- Cybersecurity
-- Full Stack Development
-- AI Automation
-- Blockchain
-- Computer Vision
-- Network Security
-
-Mindset :
-- Breaking systems to understand them
-- Building tools to improve them
-- Learning something dangerous every day
-
-Motto :
-"The quieter you become, the more you can hear."
+Role       : Full Stack Developer
+Focus      : Cybersecurity & AI Systems
+OS         : Arch Linux
+Learning   : Offensive Security & Web3
 ```
+
+I enjoy building secure applications, AI-powered systems, and futuristic web experiences.  
+Passionate about cybersecurity, automation, and modern backend architectures.
 
 ---
 
-# ⚔ Tech Arsenal
+# 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://media.tenor.com/S61VCO73mOAAAAAC/linux-anime.gif" width="400"/>
-</p>
+<div align="center">
 
-```bash
-> load_skills.sh
+<a href="https://www.linkedin.com/in/anubhavpati">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[✓] Backend Development
-[✓] API Security
-[✓] Linux Environment
-[✓] Computer Vision
-[✓] Smart Contracts
-[✓] AI Automation
-[✓] Offensive Security
-```
+<a href="mailto:anubhavpati6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Languages
+<a href="https://www.instagram.com/mai_.anubhav/">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ffff)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00ffff)
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=00ffff)
+</div>
 
 ---
 
-# 🧠 Featured Projects
+# ⚔ Technologies
+
+## Languages
 
 <p align="center">
-  <img src="https://media.tenor.com/oqKH9I7k0SAAAAAC/anime-computer.gif" width="420"/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,solidity"/>
+
 </p>
+
+---
+
+## Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,opencv,git,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🔐 StegoVault
 
-```bash
-> stealth_mode --enabled
+AES-256 + LSB steganography tool for securely hiding files/messages inside images.
 
-AES-256 encrypted steganography system
-for hiding sensitive data inside images.
-```
+### Stack
+Python • FastAPI • Pillow • JavaScript
 
 <a href="https://github.com/Anubhav-axt/StegoVault">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/Open_Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ## 🖐 Gesture Control
 
-```bash
-> gesture_engine.start()
+Real-time AI hand gesture system for controlling laptops.
 
-Real-time AI gesture system
-for controlling devices using hand tracking.
-```
+### Stack
+Python • OpenCV • MediaPipe • PyAutoGUI
 
 <a href="https://github.com/Anubhav-axt/gesture-control">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/Open_Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ## 🌐 NetScan
 
-```bash
-> netscan --recon --deep
+Network reconnaissance dashboard with vulnerability insights.
 
-Advanced reconnaissance dashboard
-with network vulnerability analysis.
-```
+### Stack
+Python • FastAPI • Nmap • JavaScript
 
 <a href="https://github.com/Anubhav-axt/Know_the_network">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/Open_Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
 ## 🎨 NFT Marketplace
 
-```bash
-> deploy_contracts()
+Decentralized NFT marketplace on Ethereum Sepolia testnet.
 
-Decentralized NFT marketplace
-running on Ethereum Sepolia testnet.
-```
+### Stack
+Solidity • Hardhat • Ethers.js • MetaMask
 
 <a href="https://github.com/Anubhav-axt/nft-marketplace">
-  <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/Open_Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-# 🌙 Current Status
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300"/>
-</p>
+<div align="center">
 
-```bash
-> currently_building...
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-axt&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true"/>
 
-[✓] Cybersecurity Tools
-[✓] AI Systems
-[✓] Full Stack Projects
-[✓] Open Source Learning
-
-> system evolving...
-```
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="100%"/>
-</p>
+# 🌙 Current Status
 
 ```bash
-> exit
-
-connection terminated...
-see you in cyberspace 🔐
+[✓] Building secure systems
+[✓] Learning offensive security
+[✓] Exploring AI automation
+[✓] Open source contributor
 ```
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="100%" />
+
+### "The quieter you become, the more you can hear."
+
+</div>
