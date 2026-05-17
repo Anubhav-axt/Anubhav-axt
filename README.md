@@ -1,189 +1,215 @@
-<div align="center">
+export default function CyberpunkProfile() { const projects = [ { title: 'StegoVault', desc: 'AES-256 + LSB steganography platform for secure hidden communication.', tech: ['Python', 'FastAPI', 'Pillow'], image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop', }, { title: 'Gesture Control', desc: 'Control systems using AI-powered real-time hand gestures.', tech: ['OpenCV', 'MediaPipe', 'Python'], image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop', }, { title: 'NetScan', desc: 'Network reconnaissance dashboard with vulnerability intelligence.', tech: ['Nmap', 'FastAPI', 'Security'], image: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop', }, ];
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+Anubhav's+Cyber+World;Full+Stack+Developer;Cybersecurity+Researcher;AI+%26+Computer+Vision+Builder;Arch+Linux+Power+User" />
+return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden relative"> <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(0,255,255,0.15),transparent_40%)]" />
 
+<div className="relative z-10 max-w-7xl mx-auto px-6 py-10 grid lg:grid-cols-[320px_1fr] gap-8">
+    {/* Sidebar */}
+    <div className="space-y-6">
+      <div className="bg-[#071018]/80 border border-cyan-500/30 rounded-3xl p-6 shadow-[0_0_40px_rgba(0,255,255,0.15)] backdrop-blur-xl">
+        <div className="relative">
+          <img
+            src="https://i.pinimg.com/736x/62/6f/17/626f1762b1c6b1f5dd4f1cbdb44e7f8f.jpg"
+            className="w-44 h-44 rounded-full object-cover mx-auto border-4 border-cyan-400 shadow-[0_0_30px_cyan]"
+          />
+          <div className="absolute bottom-3 right-16 w-5 h-5 rounded-full bg-green-400 animate-pulse" />
+        </div>
+
+        <h1 className="text-4xl font-bold text-center mt-6 tracking-wide text-cyan-200">
+          Anubhav Pati
+        </h1>
+
+        <p className="text-center text-cyan-500 mt-2 text-sm">
+          Full Stack Developer • Cybersecurity Enthusiast
+        </p>
+
+        <div className="mt-6 border border-cyan-500/20 rounded-2xl p-4 bg-black/40">
+          <p className="text-green-400 font-mono text-sm">$ whoami</p>
+          <p className="mt-3 text-sm leading-7 text-cyan-100/80">
+            Building secure systems, AI-powered tools and futuristic
+            digital experiences.
+          </p>
+        </div>
+
+        <div className="mt-6 space-y-3 text-sm">
+          {[
+            'Arch Linux',
+            'FastAPI',
+            'Computer Vision',
+            'Web3',
+          ].map((item) => (
+            <div
+              key={item}
+              className="border border-cyan-500/20 rounded-xl px-4 py-3 bg-black/30 hover:bg-cyan-500/10 transition"
+            >
+              ✦ {item}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div className="bg-[#071018]/80 border border-cyan-500/30 rounded-3xl p-6 backdrop-blur-xl">
+        <h2 className="text-xl font-semibold mb-5 text-cyan-200">
+          Connect
+        </h2>
+
+        <div className="space-y-4">
+          {['LinkedIn', 'Instagram', 'GitHub', 'Discord'].map((link) => (
+            <div
+              key={link}
+              className="border border-cyan-500/20 rounded-xl px-4 py-3 hover:bg-cyan-500/10 transition cursor-pointer"
+            >
+              {link}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    {/* Main */}
+    <div className="space-y-8">
+      {/* Hero */}
+      <div className="relative rounded-[32px] overflow-hidden border border-cyan-500/30 shadow-[0_0_50px_rgba(0,255,255,0.15)]">
+        <img
+          src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
+          className="w-full h-[420px] object-cover opacity-50"
+        />
+
+        <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-transparent" />
+
+        <div className="absolute inset-0 flex flex-col justify-center px-10 lg:px-16">
+          <p className="text-green-400 font-mono mb-4 text-sm">
+            &gt; initialize_profile.exe
+          </p>
+
+          <h1 className="text-5xl lg:text-7xl font-black leading-tight text-white max-w-3xl">
+            Welcome to <span className="text-cyan-400">Anubhav's</span>{' '}
+            Digital World
+          </h1>
+
+          <p className="mt-6 text-cyan-100/70 max-w-2xl text-lg leading-8">
+            Cybersecurity • AI Systems • Full Stack Engineering • Anime
+            Energy
+          </p>
+
+          <div className="flex flex-wrap gap-4 mt-8">
+            <button className="px-6 py-3 rounded-2xl bg-cyan-400 text-black font-bold hover:scale-105 transition">
+              Explore Projects
+            </button>
+
+            <button className="px-6 py-3 rounded-2xl border border-cyan-400 text-cyan-300 hover:bg-cyan-400/10 transition">
+              Connect With Me
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* About */}
+      <div className="bg-[#071018]/80 rounded-[32px] border border-cyan-500/30 p-8 backdrop-blur-xl">
+        <div className="flex items-center justify-between flex-wrap gap-6">
+          <div>
+            <p className="text-green-400 font-mono text-sm">
+              &gt; about_me.md
+            </p>
+            <h2 className="text-4xl font-bold mt-3 text-cyan-100">
+              About Me
+            </h2>
+          </div>
+
+          <img
+            src="https://i.pinimg.com/originals/79/4e/72/794e72a13a31c4f5a0d0c4cb0dbccf2f.gif"
+            className="w-40 rounded-2xl border border-cyan-500/20"
+          />
+        </div>
+
+        <p className="mt-8 text-cyan-100/70 leading-8 text-lg">
+          Passionate developer focused on building immersive, scalable,
+          and futuristic systems. I love cybersecurity, Linux,
+          automation, and experimenting with AI-powered ideas.
+        </p>
+
+        <div className="grid md:grid-cols-4 gap-5 mt-10">
+          {[
+            'Problem Solver',
+            'CTF Player',
+            'AI Builder',
+            'Open Source',
+          ].map((item) => (
+            <div
+              key={item}
+              className="rounded-2xl border border-cyan-500/20 bg-black/30 p-5 text-center hover:-translate-y-2 transition"
+            >
+              <div className="text-3xl mb-3">⚡</div>
+              <p>{item}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Projects */}
+      <div className="bg-[#071018]/80 rounded-[32px] border border-cyan-500/30 p-8 backdrop-blur-xl">
+        <p className="text-green-400 font-mono text-sm">
+          &gt; featured_projects.sh
+        </p>
+
+        <h2 className="text-4xl font-bold mt-3 text-cyan-100">
+          Featured Projects
+        </h2>
+
+        <div className="grid lg:grid-cols-3 gap-6 mt-10">
+          {projects.map((project) => (
+            <div
+              key={project.title}
+              className="rounded-3xl overflow-hidden border border-cyan-500/20 bg-black/40 hover:-translate-y-3 transition duration-300 group"
+            >
+              <div className="overflow-hidden">
+                <img
+                  src={project.image}
+                  className="h-52 w-full object-cover group-hover:scale-110 transition duration-500"
+                />
+              </div>
+
+              <div className="p-6">
+                <h3 className="text-2xl font-bold text-cyan-200">
+                  {project.title}
+                </h3>
+
+                <p className="mt-3 text-cyan-100/60 leading-7 text-sm">
+                  {project.desc}
+                </p>
+
+                <div className="flex flex-wrap gap-2 mt-5">
+                  {project.tech.map((tech) => (
+                    <span
+                      key={tech}
+                      className="px-3 py-1 rounded-full text-xs bg-cyan-500/10 border border-cyan-500/20"
+                    >
+                      {tech}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Footer */}
+      <div className="rounded-[32px] border border-cyan-500/20 bg-black/40 p-8 text-center">
+        <img
+          src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif"
+          className="mx-auto w-72 rounded-2xl border border-cyan-500/20"
+        />
+
+        <p className="mt-8 text-2xl text-cyan-300 font-mono">
+          Stay curious. Keep hacking. 🚀
+        </p>
+
+        <p className="mt-3 text-cyan-100/50">
+          connection terminated... see you in cyberspace.
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/0hOvfTCy9WAAAAAC/anime-boy.gif" width="100%" />
-
-</div>
-
----
-
-# 🧠 SYSTEM INFO
-
-```bash
-> whoami
-
-Name        : Anubhav Pati
-Role        : Full Stack Developer & Security Researcher
-OS          : Arch Linux
-Focus       : Cybersecurity • AI • Web3
-Status      : Building futuristic systems...
-```
-
----
-
-# 🌌 ABOUT ME
-
-<div align="center">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="450"/>
-
-</div>
-
-```bash
-> cat about.txt
-
-- Breaking systems to understand them
-- Building tools to improve them
-- Learning something dangerous every day
-
-Motto:
-"The quieter you become, the more you can hear."
-```
-
----
-
-# ⚔ TECH ARSENAL
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ffff)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00ffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00ffff)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ffff)
-
-</div>
-
----
-
-# 🔥 FEATURED PROJECTS
-
-## 🔐 StegoVault
-
-```bash
-> stealth_mode --enabled
-
-AES-256 encrypted steganography tool
-for hiding files and messages inside images.
-```
-
-<div align="left">
-
-<a href="https://github.com/Anubhav-axt/StegoVault">
-<img src="https://img.shields.io/badge/Open_Repo-00ffff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-## 🌐 NetScan
-
-```bash
-> netscan --recon --deep
-
-Advanced network reconnaissance dashboard
-with vulnerability analysis.
-```
-
-<div align="left">
-
-<a href="https://github.com/Anubhav-axt/Know_the_network">
-<img src="https://img.shields.io/badge/Open_Repo-00ffff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-## 🖐 Gesture Control
-
-```bash
-> gesture_engine.start()
-
-Control your laptop using
-real-time AI hand gestures.
-```
-
-<div align="left">
-
-<a href="https://github.com/Anubhav-axt/gesture-control">
-<img src="https://img.shields.io/badge/Open_Repo-00ffff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-# 🌙 CURRENT STATUS
-
-<div align="center">
-
-<img src="https://media.tenor.com/Lm6B7QxT9XMAAAAC/anime-computer.gif" width="400"/>
-
-</div>
-
-```bash
-> currently_building...
-
-[✓] Cybersecurity Tools
-[✓] AI Systems
-[✓] Full Stack Projects
-[✓] Open Source Learning
-
-> system evolving...
-```
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 📡 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anubhavpati">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
-</a>
-
-<a href="mailto:anubhavpati6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ffff"/>
-</a>
-
-<a href="https://www.instagram.com/mai_.anubhav/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ffff"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="100%" />
-
-</div>
-
-```bash
-> exit
-
-connection terminated...
-see you in cyberspace 🔐
-```
+); }
