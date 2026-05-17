@@ -1,19 +1,26 @@
 # < Anubhav Pati />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;AI+%26+Computer+Vision+Builder;Arch+Linux+Power+User;Building+Secure+Systems;Welcome+to+my+digital+world..." />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cyberpunk-edgerunners.gif" width="100%"/>
+</p>
+
 ```bash
 > initializing profile...
 
-Full Stack Developer • Cybersecurity Researcher • AI Builder
+Identity  : Anubhav Pati
+Role      : Full Stack Developer & Security Researcher
+OS        : Arch Linux
+Status    : Building futuristic systems...
 
-Building secure systems, intelligent tools, and immersive web experiences.
-Focused on offensive security, automation, and scalable architectures.
-
-Arch Linux • FastAPI • Computer Vision • Web3
+[✓] AI Automation
+[✓] Offensive Security
+[✓] Computer Vision
+[✓] Web3 Development
 ```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;AI+Builder;Arch+Linux+Power+User;Building+Secure+Systems" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
@@ -35,7 +42,7 @@ Arch Linux • FastAPI • Computer Vision • Web3
 
 ---
 
-## About Me
+## 🌌 About Me
 
 ```bash
 > cat about.txt
@@ -46,7 +53,8 @@ University : Centurion University of Technology & Management
 Interests  :
 - Cybersecurity
 - Full Stack Development
-- Web3 & Blockchain
+- AI Systems
+- Blockchain
 - Network Security
 - CTF Challenges
 
@@ -61,7 +69,7 @@ Motto :
 
 ---
 
-## Philosophy
+## 🎴 Philosophy
 
 ```bash
 > echo $PHILOSOPHY
@@ -71,7 +79,7 @@ Motto :
 
 ---
 
-## Tech Arsenal
+## ⚔ Tech Arsenal
 
 ```bash
 > load_skills.sh
@@ -102,28 +110,18 @@ Motto :
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhav-axt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-axt&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
-
-## Featured Projects
+## 🧠 Featured Projects
 
 ### 🔐 StegoVault
 
-Secure steganography platform combining AES-256 encryption with image-based hidden communication.
+Secure steganography platform combining AES-256 encryption with hidden communication inside images.
+
+```bash
+Status : Stable
+Security Level : High
+```
 
 **Stack:** Python • FastAPI • Pillow • JavaScript
-
-- AES-256 encryption
-- LSB image steganography
-- Secure file hiding
-- Clean web interface
 
 <a href="https://github.com/Anubhav-axt/StegoVault">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -133,14 +131,14 @@ Secure steganography platform combining AES-256 encryption with image-based hidd
 
 ### 🖐 Gesture Control
 
-AI-powered hand gesture system for controlling laptops in real time.
+Real-time AI hand gesture system for controlling laptops.
+
+```bash
+Detection : Active
+Latency   : Low
+```
 
 **Stack:** Python • OpenCV • MediaPipe • PyAutoGUI
-
-- Real-time gesture tracking
-- AI hand detection
-- System automation
-- 8 gesture mappings
 
 <a href="https://github.com/Anubhav-axt/gesture-control">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -150,14 +148,14 @@ AI-powered hand gesture system for controlling laptops in real time.
 
 ### 🌐 NetScan
 
-Network reconnaissance dashboard with vulnerability intelligence.
+Advanced network reconnaissance dashboard with vulnerability insights.
+
+```bash
+Recon Mode : Enabled
+Threat Detection : Running
+```
 
 **Stack:** Python • FastAPI • Nmap • JavaScript
-
-- ARP scanning
-- CVE detection
-- Network topology visualization
-- Real-time alerts
 
 <a href="https://github.com/Anubhav-axt/Know_the_network">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -169,12 +167,12 @@ Network reconnaissance dashboard with vulnerability intelligence.
 
 Decentralized NFT marketplace built on Ethereum Sepolia testnet.
 
-**Stack:** Solidity • Hardhat • Ethers.js • MetaMask
+```bash
+Blockchain : Ethereum
+Contracts  : Deployed
+```
 
-- ERC-721 minting
-- NFT trading
-- Smart contract integration
-- Web3 wallet support
+**Stack:** Solidity • Hardhat • Ethers.js • MetaMask
 
 <a href="https://github.com/Anubhav-axt/nft-marketplace">
   <img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00ffff"/>
@@ -182,22 +180,26 @@ Decentralized NFT marketplace built on Ethereum Sepolia testnet.
 
 ---
 
-## Current Status
+## 🌙 Current Status
 
 ```bash
 > currently_building...
 
 [✓] Full Stack Projects
 [✓] Cybersecurity Tools
-[✓] AI & Computer Vision Systems
+[✓] AI Systems
 [✓] Open Source Learning
 
-> active development in progress...
+> system evolving...
 ```
+
+<p align="center">
+  <img src="https://media.tenor.com/Lm6B7QxT9XMAAAAC/anime-computer.gif" width="400"/>
+</p>
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
