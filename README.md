@@ -1,4 +1,4 @@
-export default function CyberpunkProfile() { const projects = [ { title: 'StegoVault', desc: 'AES-256 + LSB steganography platform for secure hidden communication.', tech: ['Python', 'FastAPI', 'Pillow'], image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop', }, { title: 'Gesture Control', desc: 'Control systems using AI-powered real-time hand gestures.', tech: ['OpenCV', 'MediaPipe', 'Python'], image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop', }, { title: 'NetScan', desc: 'Network reconnaissance dashboard with vulnerability intelligence.', tech: ['Nmap', 'FastAPI', 'Security'], image: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop', }, ];
+export default function CyberpunkProfile() { const projects = [ { title: 'StegoVault', desc: 'AES-256 + LSB steganography platform for secure hidden communication.', tech: ['Python', 'FastAPI', 'Pillow'], image: 'https://wallpapercave.com/wp/wp5128415.jpg', }, { title: 'Gesture Control', desc: 'Control systems using AI-powered real-time hand gestures.', tech: ['OpenCV', 'MediaPipe', 'Python'], image: 'https://wallpapercave.com/wp/wp9422085.jpg', }, { title: 'NetScan', desc: 'Network reconnaissance dashboard with vulnerability intelligence.', tech: ['Nmap', 'FastAPI', 'Security'], image: 'https://wallpapercave.com/wp/wp2757874.gif', }, ];
 
 return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden relative"> <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(0,255,255,0.15),transparent_40%)]" />
 
@@ -8,7 +8,7 @@ return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden rel
       <div className="bg-[#071018]/80 border border-cyan-500/30 rounded-3xl p-6 shadow-[0_0_40px_rgba(0,255,255,0.15)] backdrop-blur-xl">
         <div className="relative">
           <img
-            src="https://i.pinimg.com/736x/62/6f/17/626f1762b1c6b1f5dd4f1cbdb44e7f8f.jpg"
+            src="https://wallpapercave.com/wp/wp9422179.jpg"
             className="w-44 h-44 rounded-full object-cover mx-auto border-4 border-cyan-400 shadow-[0_0_30px_cyan]"
           />
           <div className="absolute bottom-3 right-16 w-5 h-5 rounded-full bg-green-400 animate-pulse" />
@@ -70,7 +70,7 @@ return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden rel
       {/* Hero */}
       <div className="relative rounded-[32px] overflow-hidden border border-cyan-500/30 shadow-[0_0_50px_rgba(0,255,255,0.15)]">
         <img
-          src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
+          src="https://images.alphacoders.com/133/1330719.jpeg"
           className="w-full h-[420px] object-cover opacity-50"
         />
 
@@ -87,8 +87,7 @@ return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden rel
           </h1>
 
           <p className="mt-6 text-cyan-100/70 max-w-2xl text-lg leading-8">
-            Cybersecurity • AI Systems • Full Stack Engineering • Anime
-            Energy
+            Anime Coder • Cyberpunk Developer • Digital Dreamer • Terminal Addict
           </p>
 
           <div className="flex flex-wrap gap-4 mt-8">
@@ -116,7 +115,7 @@ return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden rel
           </div>
 
           <img
-            src="https://i.pinimg.com/originals/79/4e/72/794e72a13a31c4f5a0d0c4cb0dbccf2f.gif"
+            src="https://media.tenor.com/oqKH9I7k0SAAAAAC/anime-computer.gif"
             className="w-40 rounded-2xl border border-cyan-500/20"
           />
         </div>
@@ -201,7 +200,7 @@ return ( <div className="min-h-screen bg-black text-cyan-300 overflow-hidden rel
         />
 
         <p className="mt-8 text-2xl text-cyan-300 font-mono">
-          Stay curious. Keep hacking. 🚀
+          Lost in code. Living in neon. ⚡
         </p>
 
         <p className="mt-3 text-cyan-100/50">
