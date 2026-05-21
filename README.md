@@ -147,7 +147,7 @@ new bugs appeared.
 
 # 🐍 contribution_snake.py
 
-<div align="center">
+<div align="center"
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
