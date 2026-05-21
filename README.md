@@ -34,7 +34,6 @@ OS          : Arch Linux
 > cat mood.txt
 
 running on:
-- caffeine
 - late night music
 - zero sleep
 - random coding motivation
