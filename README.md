@@ -18,7 +18,6 @@ anubhav@github:~$ whoami
 Name        : Anubhav Pati
 Role        : Full Stack Developer & Cybersecurity Enthusiast
 OS          : Arch Linux
-Status      : tired but still coding...
 ```
 
 ---
