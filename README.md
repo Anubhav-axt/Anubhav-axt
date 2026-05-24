@@ -2,7 +2,17 @@
 
 # Anubhav Pati 🐈‍⬛
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Builder;Arch+Linux+User;Sleepy+Cat+Writing+Code..." />
+<p align="center">
+   <i>"Building things at 2AM and pretending it's sustainable."</i>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Builder;Arch+Linux+User;Building+ForgeGuard...;Sleepy+Cat+Writing+Code..." />
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 <br>
 
@@ -16,8 +26,10 @@
 anubhav@github:~$ whoami
 
 Name        : Anubhav Pati
-Role        : Full Stack Developer & Cybersecurity Enthusiast
+Role        : Full Stack Developer • Security Builder
+Focus       : AI + Cybersecurity + Developer Tools
 OS          : Arch Linux
+Status      : Building ForgeGuard 🚀
 ```
 
 ---
@@ -52,7 +64,7 @@ while(alive){
 
 <div align="center">
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pusheen-computer.gif" width="220"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
 
 </div>
 
@@ -60,6 +72,7 @@ while(alive){
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8BE9FD)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8BE9FD)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=8BE9FD)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=8BE9FD)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=8BE9FD)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8BE9FD)
 
@@ -74,9 +87,9 @@ while(alive){
 </div>
 
 ```bash
-[✓] Security Tools
-[✓] AI Projects
-[✓] Full Stack Applications
+[✓] ForgeGuard → AI Security Platform
+[✓] Security Tools & Vulnerability Scanners
+[✓] Full Stack + AI Applications
 [✓] Learning Something New Everyday
 
 system status: online
@@ -86,25 +99,44 @@ system status: online
 
 # 🧠 featured_projects.md
 
-## 🔐 StegoVault
+# 🛡 ForgeGuard
 
 ```bash
-AES-256 + LSB steganography platform
-for hiding files inside images.
+AI-powered developer security platform
+with vulnerability scanning, remediation,
+deployment confidence analysis,
+and cinematic security dashboards.
 ```
 
-## 🌐 NetScan
+---
+
+# 🔐 StegoVault
 
 ```bash
-Network reconnaissance dashboard
-with vulnerability analysis.
+status  : active
+stack   : Python + AES-256 + OpenCV
+mission : Hide sensitive files inside images
 ```
 
-## 🖐 Gesture Control
+---
+
+# 🌐 NetScan
 
 ```bash
-AI hand tracking system
-for controlling devices using gestures.
+status  : active
+stack   : Python + Networking
+mission : Network reconnaissance dashboard
+           with vulnerability analysis
+```
+
+---
+
+# 🖐 Gesture Control
+
+```bash
+status  : experimental
+stack   : OpenCV + AI Hand Tracking
+mission : Control systems using gestures
 ```
 
 ---
@@ -140,6 +172,16 @@ new bugs appeared.
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-axt&theme=tokyonight&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+# 📈 contribution_graph.svg
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-axt&theme=tokyo-night&hide_border=true&bg_color=000000"/>
 
 </div>
 
