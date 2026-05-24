@@ -26,7 +26,7 @@
 anubhav@github:~$ whoami
 
 Name        : Anubhav Pati
-Role        : Full Stack Developer • Security Builder
+Role        : Developer • Security Builder
 Focus       : AI + Cybersecurity
 OS          : Arch Linux
 Status      : Building ForgeGuard 🚀
