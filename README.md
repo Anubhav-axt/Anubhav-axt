@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anubhav-axt&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
 <br>
 
 <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="260"/>
