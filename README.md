@@ -6,7 +6,6 @@
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Builder;Arch+Linux+User;Building+ForgeGuard...;Sleepy+Cat+Writing+Code..." />
-
 <br>
 
 <p align="center">
