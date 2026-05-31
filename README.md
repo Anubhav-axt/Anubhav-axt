@@ -33,7 +33,6 @@ Status      : Building ForgeGuard 🚀
 # 💤 sleepy_cat.log
 
 <div align="center">
-
 <img src="https://media.tenor.com/Iie0f6qQjJIAAAAC/cat-laptop.gif" width="300"/>
 
 </div>
